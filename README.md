@@ -29,6 +29,10 @@ Ferramenta 100% web: sem necessidade de instalação
 # IMAGEM DO PROJECTO
 ![Screenshot_27-5-2025_03735_](https://github.com/user-attachments/assets/aac92623-79ee-48c6-8584-8b99f0ddab69)
 
+# CLIQUE NO LINK ABAIXO PARA USAR O SIMULADOR
+
+https://bsoftdev.github.io/BSOFT-PIPELINE-SIMULATOR/
+
 # 🚀 Como Executar Localmente
 bash
 Copy
